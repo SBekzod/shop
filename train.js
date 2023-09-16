@@ -1,1 +1,1 @@
-console.log("Bu yerda task bajarildi");
+console.log("Bu yerda task bajarildi!");
